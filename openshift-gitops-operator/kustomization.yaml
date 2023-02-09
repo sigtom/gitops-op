@@ -1,4 +1,0 @@
-resources:
-  - openshift-gitops-operator-ns.yaml
-  - openshift-gitops-operator-group.yaml
-  - openshift-gitops-sub.yaml
